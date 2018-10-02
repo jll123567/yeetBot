@@ -25,12 +25,30 @@ async def on_ready():
 
 @client.event
 async def on_message(message):
+    if message.content.startswith('y!test'):
+        await message.channel.send('hello')
+
+    if message.content.startswith("y!certainImg"):
+        certainYeet = "unknown error"
+        try:
+            yeetDex = int(message.content[-1 * (message.content.__len__() - 13):])
+            certainYeet = yeetList[yeetDex]
+        except ValueError:
+            certainYeet = "`y!certainImg <int>`"
+        except IndexError:
+            certainYeet = ("`yeet list max: " + str(yeetList.__len__() - 1) + '`')
+        except:
+            print("unknown error")
+        finally:
+            await  message.channel.send(certainYeet)
+            # print(certainYeet+"\n", message.content[-1 * (message.content.__len__() - 13):])
+
     if message.content.startswith('y!help'):
-        await message.channel.send_message("```y!yeet | yeet\n"
+        await message.channel.send("```y!yeet | yeet\n"
                                            "m!help | this```")
 
     if message.content.startswith('y!yeet'):
-        await message.channel.send_message(yeetList[randint(0, yeetList.__len__() - 1)])
+        await message.channel.send(yeetList[randint(0, yeetList.__len__() - 1)])
 
 
 client.run('token')

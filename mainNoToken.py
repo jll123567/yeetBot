@@ -11,7 +11,14 @@ yeetList = ["ʏɛɛȶ",
             "its ya boi, **YEET**",
             "https://images.prod.meredith.com/product/f6a4f6da9db798cd5a762b861149b4a6/1514196065413/l/womens-funny"
             "-eat-sleep-yeet-repeat-popular-dance-tshirt-urban-slang-large-royal-blue",
-            "https://pre00.deviantart.net/338a/th/pre/f/2017/306/0/9/new_canvastdvybujk_by_mintivy-dbshzlu.png"
+            "https://pre00.deviantart.net/338a/th/pre/f/2017/306/0/9/new_canvastdvybujk_by_mintivy-dbshzlu.png",
+            "yeet|teey",
+            "ɎɆɆ₮",
+            "🍸🎗🎗🌴",
+            "*ｙ  ｅ  ｅ  ｔ*",
+            "y♥e♥e♥t♥",
+            "( °□°）╯︵︵︵︵︵︵︵O**YEET**",
+            "`•.¸¸.•´´¯`••._.• yeet •._.••`¯´´•.¸¸.•`"
             ]
 
 

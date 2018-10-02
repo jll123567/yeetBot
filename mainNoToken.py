@@ -26,11 +26,11 @@ async def on_ready():
 @client.event
 async def on_message(message):
     if message.content.startswith('y!help'):
-        await client.send_message(message.channel, "```y!yeet | yeet\n"
-                                                   "m!help | this```")
+        await message.channel.send_message("```y!yeet | yeet\n"
+                                           "m!help | this```")
 
     if message.content.startswith('y!yeet'):
-        await client.send_message(message.channel, yeetList[randint(0, yeetList.__len__() - 1)])
+        await message.channel.send_message(yeetList[randint(0, yeetList.__len__() - 1)])
 
 
 client.run('token')

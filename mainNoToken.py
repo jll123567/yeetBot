@@ -32,6 +32,14 @@ async def on_ready():
 
 
 @client.event
+async def on_guild_join(guild):
+    general = discord.utils.find(lambda x: x.name == 'general', guild.text_channels)
+    if general and general.permissions_for(guild.me).send_messages:
+        await general.send("YEET!\n please join our support server: https://discord.gg/PJwQxHR\ny!help for the "
+                           "commands list")
+
+
+@client.event
 async def on_message(message):
     if message.content.startswith('y!test'):
         await message.channel.send('hello')
@@ -53,7 +61,7 @@ async def on_message(message):
 
     if message.content.startswith('y!help'):
         await message.channel.send("```y!yeet | yeet\n"
-                                   "m!help | this```")
+                                   "m!help | this```\nsupport server: https://discord.gg/PJwQxHR")
 
     if message.content.startswith('y!yeet'):
         await message.channel.send(yeetList[randint(0, yeetList.__len__() - 1)])
@@ -67,4 +75,5 @@ async def on_message(message):
 
 client.run('token')
 # https://discordapp.com/oauth2/authorize?client_id=494971719686291456&scope=bot&permissions=2048
+# support server: https://discord.gg/PJwQxHR
 # icon image credit: https://www.deviantart.com/mintivy/art/YEET-SMii7Y-Fanart-712996482

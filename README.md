@@ -7,4 +7,6 @@ y!help|commands list
 ```
 invite Link: https://discordapp.com/oauth2/authorize?client_id=494971719686291456&scope=bot&permissions=2048
 
+support server: https://discord.gg/PJwQxHR
+
 icon image credit: https://www.deviantart.com/mintivy/art/YEET-SMii7Y-Fanart-712996482

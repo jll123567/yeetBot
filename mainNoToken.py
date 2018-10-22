@@ -19,49 +19,47 @@ yeetList = ["ʏɛɛȶ",
             "y♥e♥e♥t♥",
             "( °□°）╯︵︵︵︵︵︵︵O**YEET**",
             "`•.¸¸.•´´¯`••._.• yeet •._.••`¯´´•.¸¸.•`",
-            "yote"
             "yeetsoda ~ \"mmm tasty\"",
             "yeetocheetos",
-            "yoteth",
             "yuckyYEET",
             "asparayeet",
             "yeetos and sauce",
-            "yotelayheehoo",
+            "yeetelayheehoo",
             "yeetache",
-            "chunkyyote",
             "yeetusyokus",
             "croncheet",
             "somebodytouchamyyeetet",
             "someyeetyonceyeeted",
             "youwouldnotbelieveyouryeet",
-            "yokes",
             "yeetsamongus",
             "yeetchus",
             "yeeter",
             "yeetjuice",
             "//yeets in spanish",
             "skyeet",
-            "skyote",
-            "its not just a yeet, it's a yote",
             "the yeetoneers used to ride these babies for miles",
-            "yoteyjoes",
             "yeetles",
-            "yotles",
             "yeetyyeetmus",
-            "vomityunks",
-            "mr yotama",
+            "mr yetama",
             "then yeetish",
             "yooooooote",
             "im yeeting",
             "//yeets in japanese",
             "yoklesetocsah",
             "glory to yeetsotshka(edited)",
-            "greatest yotetry",
             "yeetamir putin",
             "where's the Yeet sauce!",
             "eetle my yeetle",
             "https://i.redditmedia.com/JPIWA8xCyCzBEW3vtgSOzQTzlUaOb1nfs6mYCKqu4jw.jpg?fit=crop&crop=faces%2Centropy"
-            "&arh=2&w=960&s=3f9cab5e3921ad88fa0ef77b81aa9cc6 "
+            "&arh=2&w=960&s=3f9cab5e3921ad88fa0ef77b81aa9cc6",
+            "Yeet or be yeeted",
+            "https://preview.redd.it/4cg7wkvajir11.png?width=640&crop=smart&s=dfffd5e5f55a7980c7d66e73bba794b21cc930bf",
+            "I have looked god in the eye and said “yeet”",
+            "https://cdn.discordapp.com/attachments/496863164131180545/500482042635616257/uv2u9n664rr11.png",
+            "Press X to Yeet",
+            "Yeetus the fetus",
+            "Whats a yeet",
+            "\*expand YEET\*"
             ]
 
 
@@ -98,7 +96,7 @@ async def on_message(message):
         except:
             print("unknown error")
         finally:
-            await  message.channel.send(certainYeet)
+            await message.channel.send(certainYeet)
             # print(certainYeet+"\n", message.content[-1 * (message.content.__len__() - 13):])
 
     if message.content.startswith('y!help'):
@@ -108,11 +106,11 @@ async def on_message(message):
     if message.content.startswith('y!yeet'):
         await message.channel.send(yeetList[randint(0, yeetList.__len__() - 1)])
 
-    elif re.search(r"(.)*yeet(.)*", message.content):
+    elif re.search(r"(.)*yeet(.)*", message.content, re.IGNORECASE):
         if message.author == client.user:
             pass
         else:
-            await  message.channel.send(yeetList[randint(0, yeetList.__len__() - 1)])
+            await message.channel.send(yeetList[randint(0, yeetList.__len__() - 1)])
 
 
 client.run('token')

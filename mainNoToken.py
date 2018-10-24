@@ -59,7 +59,8 @@ yeetList = ["ʏɛɛȶ",
             "Press X to Yeet",
             "Yeetus the fetus",
             "Whats a yeet",
-            "\*expand YEET\*"
+            "\*expand YEET\*",
+            "you are what you yeet"
             ]
 
 

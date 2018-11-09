@@ -62,7 +62,7 @@ yeetList = ["ʏɛɛȶ",
             "you are what you yeet",
             "https://cdn.discordapp.com/attachments/509753928058011683/509754488769216512/unknown.png",
             "https://pics.me.me/parayeet-27518099.png",
-            "read a book? more like yEET a book amirite fellas?"
+            "read a book? more like yEET a book amirite fellas?",
             "https://cdn.discordapp.com/attachments/509753928058011683/509754529588183040/image0.png",
             "Type yeet to yeet",
             "Yeethaw",

@@ -55,12 +55,22 @@ yeetList = ["ʏɛɛȶ",
             "Yeet or be yeeted",
             "https://preview.redd.it/4cg7wkvajir11.png?width=640&crop=smart&s=dfffd5e5f55a7980c7d66e73bba794b21cc930bf",
             "I have looked god in the eye and said “yeet”",
-            "https://cdn.discordapp.com/attachments/496863164131180545/500482042635616257/uv2u9n664rr11.png",
             "Press X to Yeet",
             "Yeetus the fetus",
             "Whats a yeet",
             "\*expand YEET\*",
-            "you are what you yeet"
+            "you are what you yeet",
+            "https://cdn.discordapp.com/attachments/509753928058011683/509754488769216512/unknown.png",
+            "https://pics.me.me/parayeet-27518099.png",
+            "read a book? more like yEET a book amirite fellas?"
+            "https://cdn.discordapp.com/attachments/509753928058011683/509754529588183040/image0.png",
+            "Type yeet to yeet",
+            "Yeethaw",
+            "https://cdn.discordapp.com/attachments/509753928058011683/509754559221071892/image0.png",
+            "https://cdn.discordapp.com/attachments/509753928058011683/509754586429653003/image0.png",
+            "https://cdn.discordapp.com/attachments/509753928058011683/509929714966724629/image0.png",
+            "https://cdn.discordapp.com/attachments/509753928058011683/509929788291547153/image0.png",
+            "https://cdn.discordapp.com/attachments/509753928058011683/510589660301492225/image0.png",
             ]
 
 

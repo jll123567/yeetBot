@@ -95,7 +95,7 @@ async def on_message(message):
     if message.content.startswith('y!test'):
         await message.channel.send('hello')
 
-    if message.content.startswith("y!certainImg"):
+    elif message.content.startswith("y!certainImg"):
         certainYeet = "unknown error"
         try:
             yeetDex = int(message.content[-1 * (message.content.__len__() - 13):])
@@ -110,11 +110,11 @@ async def on_message(message):
             await message.channel.send(certainYeet)
             # print(certainYeet+"\n", message.content[-1 * (message.content.__len__() - 13):])
 
-    if message.content.startswith('y!help'):
+    elif message.content.startswith('y!help'):
         await message.channel.send("```y!yeet | yeet\n"
                                    "m!help | this```\nsupport server: https://discord.gg/PJwQxHR")
 
-    if message.content.startswith('y!yeet'):
+    elif message.content.startswith('y!yeet'):
         await message.channel.send(yeetList[randint(0, yeetList.__len__() - 1)])
 
     elif re.search(r"(.)*yeet(.)*", message.content, re.IGNORECASE):
@@ -122,6 +122,9 @@ async def on_message(message):
             pass
         else:
             await message.channel.send(yeetList[randint(0, yeetList.__len__() - 1)])
+
+    elif re.search(r"(.)*nigger(.)*", message.content, re.IGNORECASE):
+        await message.channel.send("Don't please!")
 
 
 client.run('token')

@@ -1,4 +1,4 @@
-# yeetBot
+# YeetBot
 yeet bot gives a random yeet when y!yeet is said in a discord chat
 
 ```

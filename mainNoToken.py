@@ -1,10 +1,13 @@
-# YEET
+"""Yeetbot is a discord bot using the discord.py that automaticly responds to discord messages with yeet by  sending
+some text or an image """
 from random import randint
 import re
 import discord
 
+# sets the client
 client = discord.Client()
 
+# listing of all the "yeets that the bot uses"
 yeetList = ["ʏɛɛȶ",
             "yee\nwait...\nyeet*",
             "yeetn't",
@@ -95,6 +98,7 @@ yeetList = ["ʏɛɛȶ",
 
 @client.event
 async def on_ready():
+    """on login print information about the bot."""
     print('Logged in as')
     print(client.user.name)
     print(client.user.id)
@@ -103,6 +107,7 @@ async def on_ready():
 
 @client.event
 async def on_guild_join(guild):
+    """on joining a discord server(guild) find the #general channel and send a welcome message."""
     general = discord.utils.find(lambda x: x.name == 'general', guild.text_channels)
     if general and general.permissions_for(guild.me).send_messages:
         await general.send("YEET!\n please join our support server: https://discord.gg/PJwQxHR\ny!help for the "
@@ -111,6 +116,15 @@ async def on_guild_join(guild):
 
 @client.event
 async def on_message(message):
+    """depending on the message, send a response to the channel the message was received from.
+    y!test: Say hello.
+    y!certainImg <int>: Pick a certain yeet from the list specified with the preceding <int>.
+    y!help: Show help information.
+    y!yeet: Pick a yeet from the list at random and send it.
+    yeet anywhere in the message: Preform the same action as y!yeet.
+    A racial slur anywhere in the message: Send a message requesting users to not use that language.
+    """
+
     if message.content.startswith('y!test'):
         await message.channel.send('hello')
 
@@ -145,7 +159,7 @@ async def on_message(message):
     elif re.search(r"(.)*nigger(.)*", message.content, re.IGNORECASE):
         await message.channel.send("Don't please!")
 
-
+# start the bot using the token(placeholder used here)
 client.run('token')
 # https://discordapp.com/oauth2/authorize?client_id=494971719686291456&scope=bot&permissions=2048
 # support server: https://discord.gg/PJwQxHR

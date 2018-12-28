@@ -301,3 +301,36 @@ Yeet List
 ::
 
     'The correct conjugation is “yote.”'
+
+
+.. image:: https://cdn.discordapp.com/attachments/509753928058011683/528339167856295956/0m67sdgjko621.png
+
+.. image:: https://cdn.discordapp.com/attachments/509753928058011683/528339258856177664/9pqirbkp92621.png
+
+.. image:: https://cdn.discordapp.com/attachments/509753928058011683/528339326803771402/ojp9ifwf28521.png
+
+.. image:: https://res.cloudinary.com/teepublic/image/private/s--l5asAvo_--/t_Preview/b_rgb:c62b29,c_limit,f_jpg,h_630,q_90,w_630/v1541358374/production/designs/3442375_0.jpg
+
+::
+
+    No one says “this bitch empty” and y e e t s like Gaston
+
+::
+
+    yeet it my fellow youths
+
+::
+
+    Hit or yeet. I guess they never yeet, huh.
+
+::
+
+    AAAA YYYYYYEEEEEEEEEEEEEEEEEEEEEEEEEEEEET
+
+::
+
+    Yeet Monk
+
+::
+
+    Let’s Yeet this wheat

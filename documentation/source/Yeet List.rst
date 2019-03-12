@@ -301,3 +301,40 @@ Yeet List
 ::
 
     'The correct conjugation is “yote.”'
+
+
+.. image:: https://cdn.discordapp.com/attachments/509753928058011683/555126639206596628/image0.png
+
+.. image:: https://cdn.discordapp.com/attachments/509753928058011683/555129877779709952/image0.png
+
+.. image:: https://cdn.discordapp.com/attachments/509753928058011683/555129905252401152/image0.png
+
+.. image:: https://cdn.discordapp.com/attachments/509753928058011683/555129931214880788/image0.png
+
+::
+
+    yeet yeet lick my feet
+
+::
+
+    Yeet the child
+
+::
+
+    UwU Yeet UwU
+
+::
+
+    Ready to yeet into my bed and sleep for five years
+
+::
+
+    *Yeets with class and elegance*
+
+::
+
+    I will personally yeet God into the sun
+
+::
+
+    Yeet? Haven’t heard that word in a long time

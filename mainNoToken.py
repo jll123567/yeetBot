@@ -1,3 +1,4 @@
+# coding=utf-8
 """Yeetbot is a discord bot using the discord.py that automaticly responds to discord messages with yeet by  sending
 some text or an image """
 from random import randint
@@ -92,7 +93,18 @@ yeetList = ["ʏɛɛȶ",
             "13 Yeetsons Why",
             "did you yeet today or did today yeet you?",
             "Season’s Yeetings",
-            'The correct conjugation is “yote.”'
+            'The correct conjugation is “yote.”',
+            "https://cdn.discordapp.com/attachments/509753928058011683/555126639206596628/image0.png",
+            "https://cdn.discordapp.com/attachments/509753928058011683/555129877779709952/image0.png",
+            "https://cdn.discordapp.com/attachments/509753928058011683/555129905252401152/image0.png",
+            "https://cdn.discordapp.com/attachments/509753928058011683/555129931214880788/image0.png",
+            "yeet yeet lick my feet",
+            "Yeet the child",
+            "UwU Yeet UwU",
+            "Ready to yeet into my bed and sleep for five years",
+            "*Yeets with class and elegance*",
+            "I will personally yeet God into the sun",
+            "Yeet? Haven’t heard that word in a long time."
             ]
 
 
@@ -158,6 +170,7 @@ async def on_message(message):
 
     elif re.search(r"(.)*nigger(.)*", message.content, re.IGNORECASE):
         await message.channel.send("Don't please!")
+
 
 # start the bot using the token(placeholder used here)
 client.run('token')

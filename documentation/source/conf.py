@@ -26,7 +26,7 @@ author = 'Jacob Ledbetter'
 # The short X.Y version
 version = ''
 # The full version, including alpha/beta/rc tags
-release = 'commit 23'
+release = 'ongoing'
 
 
 # -- General configuration ---------------------------------------------------

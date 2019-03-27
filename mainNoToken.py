@@ -188,7 +188,7 @@ async def on_message(message):
     elif message.content.startswith('y!yeet'):
         await message.channel.send(yeetList[randint(0, yeetList.__len__() - 1)])
 
-    elif re.search(r"(.)*yeet(.)*", message.content, re.IGNORECASE):
+    elif re.search(r"(.)*ye(e)+t(.)*", message.content, re.IGNORECASE):
         if message.author == client.user:
             pass
         else:

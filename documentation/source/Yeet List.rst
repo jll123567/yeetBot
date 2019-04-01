@@ -409,3 +409,227 @@ Yeet List
 ::
 
     Yeet? Haven’t heard that word in a long time
+
+::
+
+    Y'all ever just wanna Yeet?
+
+::
+
+    Yeet wars the empire strikes yeet
+
+::
+
+    Do you kno teh yeet?
+
+::
+
+    Have a happy yeetyear
+
+::
+
+    Nohaxjustyeet
+
+::
+
+    Press yeet to pay respects for $10
+
+::
+
+    Tactical yeet, incoming!
+
+::
+
+    All i do is yeet yeet
+
+::
+
+    The avengers age of yeet
+
+::
+
+    The united states of yeet
+
+::
+
+    FUS ROH YEET
+
+::
+
+    Yeetington D.C.
+
+::
+
+    Airspeed20Yesterday at 8:57 AM
+
+::
+
+    Here comes the yeet
+
+::
+
+    We will wee will yeet you
+
+::
+
+    MR YEETSIES
+
+::
+
+    And so, the criminal was charged 14 years in jail for disrespecting the yeet
+
+::
+
+    Airspeed20Yesterday at 10:24 AM
+
+::
+
+    Yeetnado
+
+::
+
+    Yes, id like to order a burger with a side of yeet
+
+::
+
+    TURN UP THE YEET
+
+::
+
+    Beat your yeet
+
+::
+
+    NEWS FLASH: YEETocracy uprisings have been taking place in St. Peatersburg
+
+::
+
+    Yeet me if you want to
+
+::
+
+    Skrrut skrrut skruut YEET
+
+::
+
+    Airspeed20Yesterday at 3:12 PM
+
+::
+
+    Luke, you must YEET darth vader
+
+::
+
+    YEET, forest, YEET
+
+::
+
+    May the yeet be with you
+
+::
+
+    The russian yeeteratin
+
+::
+
+    mr yeetseeks
+
+::
+
+    What a Yeet!
+
+::
+
+    Take the Yeet!
+
+::
+
+    Yeeters gonna yeet
+
+::
+
+    Touch me 'til I YEET
+
+::
+
+    his bitch empty.  *YEET*
+
+::
+
+    Watch your language or the cleats will yeet
+
+::
+
+    KAMEHAMEYEET
+
+::
+
+    We yeeting off
+
+::
+
+    GOD BLESS AMERICA, LAND OF THE YEET
+
+::
+
+    Yeet, yeet, im a sheep i said yeet yeet im a sheep
+
+::
+
+    Y\nE\nE\nT
+
+::
+
+    Yeet is love, Yeet is life.
+
+::
+
+    yeet yeet, Appa
+
+::
+
+    YEET THE CHILD FOR THEIR HEALTH
+
+::
+
+    Yeet or be Yeeten
+
+::
+
+    Tonight, we YEET
+
+::
+
+    Its time to light up the sky with YEET
+
+::
+
+    Certified angus Yeet, fresh and homemade!
+
+::
+
+    yeet, in a manner of speaking
+
+::
+
+    I BELIEVE I CAN YEET
+
+::
+
+    yeetest
+
+::
+
+    YeEeEeEeEeEeEeEeEeEeEeEeT
+
+::
+
+    Stop Yeeting. I’m trying to sleep.
+
+.. image:: https://i.redd.it/nw9e1sd6k8m21.jpg
+
+.. image:: https://cdn.discordapp.com/attachments/509753928058011683/562400816158343178/image0.jpg
+
+.. image:: https://cdn.discordapp.com/attachments/509753928058011683/562400922240548886/Thepathweallchoose_d36bd9_7017306.png
+
+.. image:: https://cdn.discordapp.com/attachments/509753928058011683/562400985763414026/image0.png

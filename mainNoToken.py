@@ -1,5 +1,5 @@
 # coding=utf-8
-"""Yeetbot is a discord bot using the discord.py that automaticly responds to discord messages with yeet by  sending
+"""Yeetbot is a discord bot using the discord.py that automatically responds to discord messages with yeet by  sending
 some text or an image """
 from random import randint
 import re
@@ -131,6 +131,65 @@ yeetList = ["ʏɛɛȶ",
             "*Yeets with class and elegance*",
             "I will personally yeet God into the sun",
             "Yeet? Haven’t heard that word in a long time."
+            "Y'all ever just wanna Yeet?",
+            "Yeet wars the empire strikes yeet",
+            "Do you kno teh yeet?",
+            "Have a happy yeetyear",
+            "Nohaxjustyeet",
+            "Press yeet to pay respects for $10",
+            "Tactical yeet, incoming!",
+            "All i do is yeet yeet",
+            "The avengers age of yeet",
+            "The united states of yeet",
+            "FUS ROH YEET",
+            "Yeetington D.C.",
+            "Airspeed20Yesterday at 8:57 AM",
+            "Here comes the yeet",
+            "We will wee will yeet you",
+            "MR YEETSIES",
+            "And so, the criminal was charged 14 years in jail for disrespecting the yeet",
+            "Airspeed20Yesterday at 10:24 AM",
+            "Yeetnado",
+            "Yes, id like to order a burger with a side of yeet",
+            "TURN UP THE YEET",
+            "Beat your yeet",
+            "NEWS FLASH: YEETocracy uprisings have been taking place in St. Peatersburg",
+            "Yeet me if you want to",
+            "Skrrut skrrut skruut YEET",
+            "Airspeed20Yesterday at 3:12 PM",
+            "Luke, you must YEET darth vader",
+            "YEET, forest, YEET",
+            "May the yeet be with you",
+            "The russian yeeteratin",
+            "mr yeetseeks",
+            "What a Yeet!",
+            "Take the Yeet!",
+            "Yeeters gonna yeet",
+            "Touch me 'til I YEET",
+            "his bitch empty.  *YEET*",
+            "Watch your language or the cleats will yeet",
+            "KAMEHAMEYEET",
+            "We yeeting off",
+            "GOD BLESS AMERICA, LAND OF THE YEET",
+            "Yeet, yeet, im a sheep i said yeet yeet im a sheep",
+            "Y\nE\nE\nT",
+            "Yeet is love, Yeet is life.",
+            "yeet yeet, Appa",
+            "YEET THE CHILD FOR THEIR HEALTH",
+            "Yeet or be Yeeten",
+            "Tonight, we YEET",
+            "Its time to light up the sky with YEET",
+            "Certified angus Yeet, fresh and homemade!",
+            "yeet, in a manner of speaking",
+            "I BELIEVE I CAN YEET",
+            "yeetest",
+            "YeEeEeEeEeEeEeEeEeEeEeEeT",
+            "Stop Yeeting. I’m trying to sleep.",
+            "https://i.redd.it/nw9e1sd6k8m21.jpg",
+            "https://cdn.discordapp.com/attachments/509753928058011683/562400816158343178/image0.jpg",
+            "https://cdn.discordapp.com/attachments/509753928058011683/562400922240548886"
+            "/Thepathweallchoose_d36bd9_7017306.png",
+            "https://cdn.discordapp.com/attachments/509753928058011683/562400985763414026/image0.png"
             ]
 
 
@@ -152,6 +211,7 @@ async def on_guild_join(guild):
                            "commands list")
 
 
+# noinspection PyBroadException
 @client.event
 async def on_message(message):
     """depending on the message, send a response to the channel the message was received from.
@@ -160,42 +220,42 @@ async def on_message(message):
     y!help: Show help information.
     y!yeet: Pick a yeet from the list at random and send it.
     yeet anywhere in the message: Preform the same action as y!yeet.
-    A racial slur anywhere in the message: Send a message requesting users to not use that language.
+    A racial slur anywhere in the message: Send a message requesting users to not use that kind of language.
     """
+    if message.author.bot:
+        pass
+    else:
+        if message.content.startswith('y!test'):
+            await message.channel.send('hello')
 
-    if message.content.startswith('y!test'):
-        await message.channel.send('hello')
+        elif message.content.startswith("y!pick"):
+            certainYeet = "unknown error"
+            try:
+                yeetDex = int(message.content[-1 * (message.content.__len__() - 13):])
+                certainYeet = yeetList[yeetDex]
+            except ValueError:
+                certainYeet = "`y!pick <int>`"
+            except IndexError:
+                certainYeet = ("`yeet list max: " + str(yeetList.__len__() - 1) + '`')
+            except:
+                print("unknown error")
+            finally:
+                await message.channel.send(certainYeet)
+                # print(certainYeet+"\n", message.content[-1 * (message.content.__len__() - 13):])
 
-    elif message.content.startswith("y!certainImg"):
-        certainYeet = "unknown error"
-        try:
-            yeetDex = int(message.content[-1 * (message.content.__len__() - 13):])
-            certainYeet = yeetList[yeetDex]
-        except ValueError:
-            certainYeet = "`y!certainImg <int>`"
-        except IndexError:
-            certainYeet = ("`yeet list max: " + str(yeetList.__len__() - 1) + '`')
-        except:
-            print("unknown error")
-        finally:
-            await message.channel.send(certainYeet)
-            # print(certainYeet+"\n", message.content[-1 * (message.content.__len__() - 13):])
+        elif message.content.startswith('y!help'):
+            await message.channel.send("```y!yeet | yeet\n"
+                                       "y!help | this```\nsupport server: https://discord.gg/PJwQxHR")
 
-    elif message.content.startswith('y!help'):
-        await message.channel.send("```y!yeet | yeet\n"
-                                   "m!help | this```\nsupport server: https://discord.gg/PJwQxHR")
-
-    elif message.content.startswith('y!yeet'):
-        await message.channel.send(yeetList[randint(0, yeetList.__len__() - 1)])
-
-    elif re.search(r"(.)*ye(e)+t(.)*", message.content, re.IGNORECASE):
-        if message.author == client.user:
-            pass
-        else:
+        elif message.content.startswith('y!yeet'):
             await message.channel.send(yeetList[randint(0, yeetList.__len__() - 1)])
 
-    elif re.search(r"(.)*nigger(.)*", message.content, re.IGNORECASE):
-        await message.channel.send("Don't please!")
+        elif re.search(r"(.)*y( )*e( )*(e( )*)+t(.)*", message.content, re.IGNORECASE):
+                await message.channel.send(yeetList[randint(0, yeetList.__len__() - 1)])
+
+        elif re.search(r"(.)*(n)+(i)+(g)+(.)*(r)+(.)*", message.content, re.IGNORECASE):
+            await message.channel.send("Don't please!")
+
 
 # start the bot using the token(placeholder used here)
 client.run('token')

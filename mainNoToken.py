@@ -250,7 +250,9 @@ async def on_message(message):
 
         elif message.content.startswith('y!help'):
             await message.channel.send("```y!yeet | yeet\n"
-                                       "y!help | this```\nsupport server: https://discord.gg/PJwQxHR")
+                                       "y!help | this\n"
+                                       "y!pick <integer> | say a specific yeet```"
+                                       "\nsupport server: https://discord.gg/PJwQxHR")
 
         elif message.content.startswith('y!yeet'):
             await message.channel.send(yeetList[randint(0, yeetList.__len__() - 1)])

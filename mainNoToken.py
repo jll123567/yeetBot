@@ -232,7 +232,7 @@ async def on_message(message):
             certainYeet = "unknown error"
 
             try:
-                yeetDex = int(message.content[-1 * (message.content.__len__() - 13):])
+                yeetDex = int(message.content[-1 * (message.content.__len__() - 7):])
                 certainYeet = yeetList[yeetDex]
 
             except ValueError:

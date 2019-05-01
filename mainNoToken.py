@@ -257,10 +257,10 @@ async def on_message(message):
         elif message.content.startswith('y!yeet'):
             await message.channel.send(yeetList[randint(0, yeetList.__len__() - 1)])
 
-        elif re.search(r"(.)*y( )*e( )*(e( )*)+t(.)*", message.content, re.IGNORECASE):
+        elif re.search(r".*y *e *e+ *t.*", message.content, re.IGNORECASE):
                 await message.channel.send(yeetList[randint(0, yeetList.__len__() - 1)])
 
-        elif re.search(r"(.)*(n)+(i)+(g)+(.)*(r)+(.)*", message.content, re.IGNORECASE):
+        elif re.search(r".*nig+e*r.*", message.content, re.IGNORECASE):
             await message.channel.send("Don't please!")
 
 

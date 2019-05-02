@@ -19,8 +19,6 @@ Yeet List
 
     its ya boi **YEET**
 
-.. image:: https://images.prod.meredith.com/product/f6a4f6da9db798cd5a762b861149b4a6/1514196065413/l/womens-funny-eat-sleep-yeet-repeat-popular-dance-tshirt-urban-slang-large-royal-blue
-
 .. image:: https://pre00.deviantart.net/338a/th/pre/f/2017/306/0/9/new_canvastdvybujk_by_mintivy-dbshzlu.png
 
 ::
@@ -375,8 +373,6 @@ Yeet List
 
 .. image:: https://cdn.discordapp.com/attachments/509753928058011683/541088587807064111/image0.png
 
-.. image:: https://cdn.discordapp.com/attachments/509753928058011683/555126639206596628/image0.png
-
 .. image:: https://cdn.discordapp.com/attachments/509753928058011683/555129877779709952/image0.png
 
 .. image:: https://cdn.discordapp.com/attachments/509753928058011683/555129905252401152/image0.png
@@ -634,3 +630,233 @@ Yeet List
 .. image:: https://cdn.discordapp.com/attachments/509753928058011683/562400922240548886/Thepathweallchoose_d36bd9_7017306.png
 
 .. image:: https://cdn.discordapp.com/attachments/509753928058011683/562400985763414026/image0.png
+
+::
+
+    YEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEETYEET
+
+::
+
+    I have Yeeted John Cena into space like Chuck Norris
+
+::
+
+    You’vE EaTen
+
+::
+
+    We are brave because we know how to YEET like men
+
+::
+
+    Yeet?
+
+::
+
+    Yeet!
+
+::
+
+    Yeet...
+
+::
+
+    Yeet that piano down the stairs Johnny
+
+::
+
+    I sexually identify as a yeet
+
+::
+
+    DO YOU UNDERSTAND THE YEET COMIN OUTA MAH MOUTH?!?!
+
+::
+
+    They Hath choseth thyne yeet
+
+::
+
+    They be yeetin
+
+::
+
+    They see me yeeting, they hate it, patroling and gonna catch me yeetin dirty
+
+::
+
+    You’re not my daddy, I can YEET as much as I want!
+
+::
+
+    #yeet
+
+::
+
+    Yeet translates to Yeet in German
+
+::
+
+    360YEETSCOPE
+
+::
+
+    wait, how do you yeet again?
+
+::
+
+    Mama Mia\nhere I yeet again\nmy my\nHow can I Skeet ya
+
+::
+
+    Can you please yeet me?
+
+::
+
+    Yeet me a cookie
+
+::
+
+    Yeet me out the window
+
+::
+
+    Yeet Yeet drop the beet
+
+::
+
+    Yeetbeer
+
+::
+
+    Mama mia thats a spicy yeet
+
+::
+
+    give me life or give me yeet
+
+::
+
+    Yeet deez nuts
+
+::
+
+    One Yeet, Two Yeet, Red Yeet, Blue Yeet.
+
+::
+
+    Deja yeet
+
+::
+
+    Yeetoburrito popperito
+
+::
+
+    I don’t give a yeet
+
+::
+
+    Look mom! I can Yeet!
+
+::
+
+    He protec, he attac, but most importantly, he yeet.
+
+::
+
+    mmmmm, thats a tasty yeet
+
+::
+
+    A train is coming to yeet your car. Chuga. Chuga.
+
+::
+
+    One does not simply yeet
+
+::
+
+    The yeet has spoken.
+
+::
+
+    Yeet that pie into his face already!
+
+::
+
+    You yeet what you sow
+
+::
+
+    Yeet yote yeet yote
+
+::
+
+    Yeet Yeet touch my... wait... this seems firmilliar...
+
+::
+
+    Yeetspam
+
+::
+
+    yeet me harder
+
+::
+
+    I’d like to order a hamburger with a side of yeet, please
+
+::
+
+    God said, “LET THERE BE YEET.”
+
+::
+
+    Its a bird! Its a plane! Nevermind, its just a yeet.
+
+::
+
+    I'm babey call yeet skeet repeat
+
+::
+
+    Y:joy:e:joy:e:joy:t:joy:
+
+::
+
+    Urban Dictionary defenition of yeet: to discard an item at a high velocity.
+
+::
+
+    Yeeti
+
+::
+
+    Yeets of steel
+
+::
+
+    You’ve yeet’d yer last haw
+
+::
+
+    Yeet me in the middle
+
+::
+
+    How many yeets can you yeet in a yeet?
+
+.. image:: https://i.redd.it/lwg0lcqx5zt21.png
+.. image:: https://cdn.discordapp.com/attachments/509753928058011683/573615116264669225/image0.png
+.. image:: https://cdn.discordapp.com/attachments/509753928058011683/573615182815690828/image0.png
+.. image:: https://cdn.discordapp.com/attachments/509753928058011683/573615249002070016/image0.png
+.. image:: https://cdn.discordapp.com/attachments/509753928058011683/573615313980227625/image0.png
+.. image:: https://cdn.discordapp.com/attachments/509753928058011683/573615421983555604/image0.png
+.. image:: https://cdn.discordapp.com/attachments/509753928058011683/573615486689083422/image0.png
+.. image:: https://cdn.discordapp.com/attachments/509753928058011683/573615745766785035/image0.gif
+.. image:: https://cdn.discordapp.com/attachments/509753928058011683/573616567426875450/unknown.png
+.. image:: https://cdn.discordapp.com/attachments/509753928058011683/573616686528200734/aea18b_6305077.png
+.. image:: https://cdn.discordapp.com/attachments/509753928058011683/573616968783888413/unknown.png
+.. image:: https://cdn.discordapp.com/attachments/509753928058011683/573617183876448266/unknown.png
+.. image:: https://cdn.discordapp.com/attachments/509753928058011683/573617443235168279/unknown.png

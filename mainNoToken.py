@@ -314,7 +314,7 @@ async def on_message(message):
             print("get")
             file = open("./yeets.txt", 'w')
             async for yeet in message.channel.history(limit=300):
-                file.write(yeet.content+'\n')
+                file.write(yeet.content + '\n')
             file.close()
 
         elif message.content.startswith("y!pick"):
@@ -346,8 +346,16 @@ async def on_message(message):
                                        "\nsupport server: https://discord.gg/PJwQxHR")
 
         elif re.search(r".*y *e *e+ *t.*", message.content, re.IGNORECASE):
-                print("yeet")
-                await message.channel.send(yeetList[randint(0, yeetList.__len__() - 1)])
+            print("yeet")
+            await message.channel.send(yeetList[randint(0, yeetList.__len__() - 1)])
+            file = open("./yeetStat.txt", "r")
+            countText = file.read()
+            file.close()
+            count = int(re.search(r"yeets:([0-9]+)", countText).group(1))
+            count += 1
+            file = open("./yeetStat.txt", "w")
+            file.write("yeets:" + str(count))
+            file.close()
 
         elif re.search(r".*nig+e*r.*", message.content, re.IGNORECASE):
             print("n-word")

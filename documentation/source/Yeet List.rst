@@ -860,3 +860,68 @@ Yeet List
 .. image:: https://cdn.discordapp.com/attachments/509753928058011683/573616968783888413/unknown.png
 .. image:: https://cdn.discordapp.com/attachments/509753928058011683/573617183876448266/unknown.png
 .. image:: https://cdn.discordapp.com/attachments/509753928058011683/573617443235168279/unknown.png
+
+::
+
+    Yeetmate
+
+::
+
+    Yeetslav
+
+::
+
+    Yeetmilk
+
+::
+
+    A wild YEET appeared!
+
+::
+
+    Yeet. Say it back.
+
+::
+
+    Yeetball
+
+::
+
+    Yeet cemetery
+
+::
+
+    Yeet cremery
+
+::
+
+    This bitch full... no YEET required
+
+::
+
+    Yeet sheet
+
+::
+
+    YEET THAT COKE CAN OUT THE WINDOW
+
+::
+
+    //yeets in dutch
+
+::
+
+    //yeets in american
+
+::
+
+    yeetopauttamous
+
+.. image:: https://ih0.redbubble.net/image.562324831.7631/flat,550x550,075,f.u3.jpg
+.. image:: https://res.cloudinary.com/teepublic/image/private/s--gau70PrD--/t_Preview/b_rgb:ffffff,c_limit,f_jpg,h_630,q_90,w_630/v1530329505/production/designs/2840683_0.jpg
+.. image:: https://i.redd.it/s7strpkk9xx01.jpg
+.. image:: https://i1.sndcdn.com/artworks-000394305447-aympqv-t500x500.jpg
+.. image:: https://www.dailydot.com/wp-content/uploads/2018/09/Screen-Shot-2018-09-12-at-2.14.39-PM-800x211.png
+.. image:: https://cdn.discordapp.com/attachments/509753928058011683/586296717318815754/y.png
+.. image:: https://cdn.discordapp.com/attachments/509753928058011683/586296931203153942/image0.png
+.. image:: https://cdn.discordapp.com/attachments/509753928058011683/586297048404459521/image0.png

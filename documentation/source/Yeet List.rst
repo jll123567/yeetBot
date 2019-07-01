@@ -925,3 +925,57 @@ Yeet List
 .. image:: https://cdn.discordapp.com/attachments/509753928058011683/586296717318815754/y.png
 .. image:: https://cdn.discordapp.com/attachments/509753928058011683/586296931203153942/image0.png
 .. image:: https://cdn.discordapp.com/attachments/509753928058011683/586297048404459521/image0.png
+
+::
+
+    this bitch still empty. yeet
+
+.. image:: https://i.imgur.com/Yi0BpS6.gif
+
+::
+
+    Scientist creates plane engine that sounds like somebody screaming yeet
+
+::
+
+    Yeetus yeetus trashnite deletus
+
+::
+
+    Yeet it daddy
+
+::
+
+    www.yeetmymeat.com
+
+.. image:: https://preview.redd.it/1ag3i9xtqa531.png?width=986&auto=webp&s=a5cefe745df77e0b115540f7463e904e63786bbb
+
+::
+
+    Yeetball
+
+::
+
+    1-800-are-you-yeeting
+
+::
+
+    How you yeeting?
+
+::
+
+    is it a boy or a girl? its a yeet
+
+::
+
+    This is so sad can I get a yeet in chat
+
+::
+
+    Yeet! Child
+
+::
+
+    yeet yeet take a seat
+
+.. image:: https://cdn.discordapp.com/attachments/509753928058011683/595303929139560456/image0.png

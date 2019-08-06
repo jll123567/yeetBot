@@ -303,7 +303,21 @@ yeetList = ["ʏɛɛȶ",
             "This is so sad can I get a yeet in chat",
             "Yeet! Child",
             "yeet yeet take a seat",
-            "https://cdn.discordapp.com/attachments/509753928058011683/595303929139560456/image0.png"
+            "https://cdn.discordapp.com/attachments/509753928058011683/595303929139560456/image0.png",
+            "Do you wanna yeet a snowman?",
+            "WE WILL BUILD A GREAT BIG WALL AND WILL MAKE THE MEXICANS YEET FOR IT",
+            "https://66.media.tumblr.com/5b1b10ac27d3fca65438a80f9132d05c/tumblr_piokc3XyCc1y0p6zko3_1280.jpg",
+            "Jokes on you: this country sucks! **ya YEET**",
+            "https://66.media.tumblr.com/6faaf07ba82f37ad83ec3c100f53789e/tumblr_pmfxkc1n7Q1xpvizao1_540.jpg",
+            "yeet.exe has stopped working",
+            "yeetwagon",
+            "Make your dreams come true. Yeet as loud as you can at chuck norris",
+            "Very honorable, master yeet.",
+            "Live out your wildest fantasies. Yeet yourself into a fridge",
+            "WHACHA YEETIN",
+            "teacher: \"complete the sentence: only cool kids _____.\"\n\*writes yeet the blank\*",
+            "https://cdn.discordapp.com/attachments/509753928058011683/608313790722867220/image0.png",
+            "https://cdn.discordapp.com/attachments/509753928058011683/608313833924198494/image0.png",
             ]
 
 

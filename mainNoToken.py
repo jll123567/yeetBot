@@ -318,6 +318,16 @@ yeetList = ["ʏɛɛȶ",
             "teacher: \"complete the sentence: only cool kids _____.\"\n\*writes yeet the blank\*",
             "https://cdn.discordapp.com/attachments/509753928058011683/608313790722867220/image0.png",
             "https://cdn.discordapp.com/attachments/509753928058011683/608313833924198494/image0.png",
+            "https://66.media.tumblr.com/57d7c61507bd433185e2b895e86e3a91/25319b2e0c4b4481-de/s540x810/c9b8743f9751b1705b575eb2de647af927758094.jpg",
+            "YEET 'EM ON THE I88",
+            "Yeetgurt",
+            "Idk what to say so yeet",
+            "yeet my meat with my feet while dropping the beat",
+            "https://cdn.discordapp.com/attachments/509753928058011683/626769639736737852/image0.png",
+            "https://cdn.discordapp.com/attachments/509753928058011683/626769783618142235/image0.png",
+            "https://cdn.discordapp.com/attachments/509753928058011683/626770523933900807/image0.png",
+            "https://cdn.discordapp.com/attachments/509753928058011683/626770633925197824/image0.png",
+            "https://cdn.discordapp.com/attachments/509753928058011683/626770777131450369/image0.png"
             ]
 
 

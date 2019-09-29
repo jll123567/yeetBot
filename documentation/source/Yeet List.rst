@@ -1024,10 +1024,6 @@ Yeet List
 .. image:: https://66.media.tumblr.com/6faaf07ba82f37ad83ec3c100f53789e/tumblr_pmfxkc1n7Q1xpvizao1_540.jpg
 .. image:: https://cdn.discordapp.com/attachments/509753928058011683/608313833924198494/image0.png
 .. image:: https://66.media.tumblr.com/5b1b10ac27d3fca65438a80f9132d05c/tumblr_piokc3XyCc1y0p6zko3_1280.jpg
-
-Soon To Be Added
-================
-
 .. image:: https://66.media.tumblr.com/57d7c61507bd433185e2b895e86e3a91/25319b2e0c4b4481-de/s540x810/c9b8743f9751b1705b575eb2de647af927758094.jpg
 
 ::

@@ -1047,3 +1047,36 @@ Yeet List
 .. image:: https://cdn.discordapp.com/attachments/509753928058011683/626770523933900807/image0.png
 .. image:: https://cdn.discordapp.com/attachments/509753928058011683/626770633925197824/image0.png
 .. image:: https://cdn.discordapp.com/attachments/509753928058011683/626770777131450369/image0.png
+
+::
+
+    Yeet the rich
+
+::
+
+    йет
+
+.. image:: https://i.redd.it/6mkba2ya7wt31.jpg
+
+::
+
+    Yeet the tea
+
+::
+
+    Spooky Yeet
+
+::
+
+    Welcome message: hewwo I'm yeet bot pleasure to meet you
+
+::
+
+    Yeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeet
+
+::
+
+    Yeet yank yoink
+
+.. image:: https://cdn.discordapp.com/attachments/509753928058011683/643259078377996290/image0.png
+.. image:: https://cdn.discordapp.com/attachments/509753928058011683/643259231188942878/image0.png

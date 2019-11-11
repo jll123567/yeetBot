@@ -327,7 +327,17 @@ yeetList = ["ʏɛɛȶ",
             "https://cdn.discordapp.com/attachments/509753928058011683/626769783618142235/image0.png",
             "https://cdn.discordapp.com/attachments/509753928058011683/626770523933900807/image0.png",
             "https://cdn.discordapp.com/attachments/509753928058011683/626770633925197824/image0.png",
-            "https://cdn.discordapp.com/attachments/509753928058011683/626770777131450369/image0.png"
+            "https://cdn.discordapp.com/attachments/509753928058011683/626770777131450369/image0.png",
+            "Yeet the rich",
+            "йет",
+            "https://i.redd.it/6mkba2ya7wt31.jpg",
+            "Yeet the tea",
+            "Spooky Yeet",
+            "Welcome message: hewwo I'm yeet bot pleasure to meet you",
+            "Yeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeet",
+            "Yeet yank yoink",
+            "https://cdn.discordapp.com/attachments/509753928058011683/643259078377996290/image0.png",
+            "https://cdn.discordapp.com/attachments/509753928058011683/643259231188942878/image0.png"
             ]
 
 
@@ -347,7 +357,7 @@ async def on_guild_join(guild):
     print("guild join")
     for channel in guild.text_channels:
         if channel and channel.permissions_for(guild.me).send_messages:
-            await channel.send("YEET!\n please join our support server: https://discord.gg/PJwQxHR\ny!help for the "
+            await channel.send("hewwo! I'm yeet bot pleasure to meet you!\n please join our support server: https://discord.gg/PJwQxHR\ny!help for the "
                                "commands list")
             break
 
